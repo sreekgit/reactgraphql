@@ -1,0 +1,18 @@
+.home {
+  max-width: 750px;
+}
+
+.center {
+  text-align: center;
+}
+
+.title {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 50px;
+}
